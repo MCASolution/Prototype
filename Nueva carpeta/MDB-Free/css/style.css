@@ -1,0 +1,32 @@
+html,
+body,
+header,
+#intro {
+    height: 100%;
+}
+
+#intro {
+    background: url("https://images7.alphacoders.com/557/thumb-1920-557051.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+}
+
+.fonts {
+    font-family: 'Indie Flower', cursive;
+    color: gray;
+}
+
+.fonts-title {
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Pacifico', cursive;
+}
+
+.tranformaciones {
+    transition: 1s;
+}
+
+.tranformaciones:hover {
+    transform: scale(1.1);
+}

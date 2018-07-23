@@ -1,0 +1,17 @@
+.color_nav{
+	background-color: #2e2e2e;
+}
+
+.text_color,a {
+	color:  white;
+}
+.derecha_{
+	text-align: right;
+}
+.color_bottom{
+	background-color: rgba(255, 255, 255, 0.25)
+}
+
+.color_boton{
+	border-color: #2e2e2e;
+}
